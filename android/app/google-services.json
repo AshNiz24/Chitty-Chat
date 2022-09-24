@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "926243310350",
+    "project_id": "test-for-auth-and-db",
+    "storage_bucket": "test-for-auth-and-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926243310350:android:7b26ef9105a3629386655f",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth_state_mngmt_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926243310350-kakh0njuseok161kunhoqqlhsgdk7voh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP_4ecPUDvUQYdm_V1jEwwTBDJ2d2ujAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926243310350-kakh0njuseok161kunhoqqlhsgdk7voh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
